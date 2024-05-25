@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World secod auto poll'
+                echo 'Hello World secod auto poll v2 '
             }
         }
     }
